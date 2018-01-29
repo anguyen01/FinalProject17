@@ -692,3 +692,5 @@ def scene30():
     else:
         print("Invalid response. Try again.")
         scene30()
+
+run_game()
